@@ -1,0 +1,11 @@
+ul {
+  position: fixed;
+  top: 2rem;
+  left: 2rem;
+  z-index: 999;
+}
+
+li {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
